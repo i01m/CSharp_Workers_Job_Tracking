@@ -1,0 +1,13 @@
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\ProjectDevVm\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Project\DEVELOPMENT_VM\C#\EventsDelegatesLambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
